@@ -1,2 +1,3 @@
 # Responsive-Web-Design-FreeCodeCamp
-I started doing the FreeCodeCamp Web dev course
+Journey of the FreeCodeCamp Web dev course
+This is a pile up of all the repos
